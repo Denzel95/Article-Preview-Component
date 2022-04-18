@@ -2,6 +2,9 @@
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
+# Live URL
+https://denzel95.github.io/Article-Preview-Component/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
